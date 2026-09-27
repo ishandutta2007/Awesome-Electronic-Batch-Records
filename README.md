@@ -59,9 +59,9 @@ This category is historically commercially consolidated. **No production-ready, 
 
 ## 🔓 Open-Source Repositories & Foundations
 
-Repositories below are sorted by GitHub Star Count (Descending) to reflect community traction and adoption.
+Repositories below are sorted by GitHub Stars_Count (Descending) to reflect community traction and adoption.
 
-| Repository 📦 | GitHub Stars ⭐ | License 📜 | Tech Stack 💻 | Description & Manufacturing Focus 🎯 |
+| Repository 📦 | GitHub_Stars ⭐ | License 📜 | Tech Stack 💻 | Description & Manufacturing Focus 🎯 |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Odoo](https://github.com/odoo/odoo)** | [![Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | LGPL-3.0 | Python, JavaScript, PostgreSQL | Full-featured enterprise suite with production MRP, work centers, inventory lot/serial control, and custom electronic signature modules suitable for modular EBR creation. |
 | **[ERPNext](https://github.com/frappe/erpnext)** | [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | GPL-3.0 | Python (Frappe Framework), MariaDB | Comprehensive open-source ERP with built-in Bill of Materials (BOM), work orders, batch quality inspections, and detailed operational log tracking. |
